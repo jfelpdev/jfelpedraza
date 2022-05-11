@@ -14,7 +14,7 @@ I am from Colombia, I am 20 years old, my philosophy of life is to never give up
 * 🤝  I'm open to collaborating on Projects about Web 3, Metaverse, games and OS
 * ⚡  I believe in God, the Father Almighty, Creator of Heaven and earth; and in Jesus Christ, His only Son Our Lord, Who was conceived by the Holy Spirit, born of the Virgin Mary...
 
-<a href="https://www.twitter.com/jfelpedraza" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/jfelpdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jfelpedraza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/jfelpedraza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jfelpedraza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
